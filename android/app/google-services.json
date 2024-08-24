@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963034045749",
+    "project_id": "katkote-84ef9",
+    "storage_bucket": "katkote-84ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963034045749:android:bc654d49cdff06e3a5c07c",
+        "android_client_info": {
+          "package_name": "com.example.katkote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JerJFRvoe6-c9YhxHXZ5ruIw2gk-6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
